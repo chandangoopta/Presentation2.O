@@ -1,0 +1,76 @@
+2013-05-31 20:36:43 | Login: 127.0.0.1 is logged out
+2013-05-31 20:36:56 | Login: 127.0.0.1 is logged in
+2013-05-31 21:11:16 | Current Slide: file missing
+2013-05-31 21:11:18 | Current Slide: file missing
+2013-05-31 21:12:09 | Current Slide: file missing
+2013-06-01 00:55:36 | Current Slide: could not be read
+2013-06-01 01:19:48 | Current Slide: could not be read
+2013-06-01 01:24:56 | Current Slide: could not be read
+2013-06-01 02:14:19 | Login: 127.0.0.1 is logged in
+2013-06-01 02:14:19 | Presentations: Directory could not be accessed
+2013-06-01 07:56:37 | Current Slide: could not be read
+2013-06-01 11:00:37 | Login: 127.0.0.1 attempts to login
+2013-06-01 11:00:41 | Login: 127.0.0.1 is logged in
+2013-06-01 11:46:15 | Login: 127.0.0.1 is logged in
+2013-06-01 12:19:26 | Login: 127.0.0.1 is logged in
+2013-06-01 12:57:48 | Login: 127.0.0.1 is logged in
+2013-06-01 13:16:12 | /opt/lampp/htdocs/presentation2.0/presentations/deepak.txt: file missing
+2013-06-01 13:16:13 | /opt/lampp/htdocs/presentation2.0/presentations/deepak.txt: file missing
+2013-06-01 13:16:14 | /opt/lampp/htdocs/presentation2.0/presentations/deepak.txt: file missing
+2013-06-01 13:16:15 | /opt/lampp/htdocs/presentation2.0/presentations/deepak.txt: file missing
+2013-06-01 13:16:16 | /opt/lampp/htdocs/presentation2.0/presentations/deepak.txt: file missing
+2013-06-01 13:16:17 | /opt/lampp/htdocs/presentation2.0/presentations/deepak.txt: file missing
+2013-06-01 13:16:18 | /opt/lampp/htdocs/presentation2.0/presentations/deepak.txt: file missing
+2013-06-01 13:16:19 | /opt/lampp/htdocs/presentation2.0/presentations/deepak.txt: file missing
+2013-06-01 13:16:20 | /opt/lampp/htdocs/presentation2.0/presentations/deepak.txt: file missing
+2013-06-01 13:20:16 | Login: 192.168.3.159 is logged in
+2013-06-01 13:39:19 | Login: 192.168.3.114 is logged in
+2013-06-01 13:42:46 | Login: 192.168.3.159 is logged out
+2013-06-01 13:55:51 | Login: 192.168.0.102 is logged in
+2013-06-01 14:22:11 | Login: 192.168.0.101 attempts to login
+2013-06-01 14:22:39 | Login: 192.168.0.103 attempts to login
+2013-06-01 14:22:49 | Login: 192.168.0.103 attempts to login
+2013-06-01 14:24:34 | Login: 192.168.0.101 attempts to login
+2013-06-01 14:24:40 | Login: 192.168.0.101 attempts to login
+2013-06-01 14:24:43 | Login: 192.168.0.101 attempts to login
+2013-06-01 14:24:49 | Login: 192.168.0.101 attempts to login
+2013-06-01 14:24:51 | Login: 192.168.0.101 attempts to login
+2013-06-01 14:25:00 | Login: 192.168.0.101 attempts to login
+2013-06-01 14:25:47 | Login: 192.168.0.101 attempts to login
+2013-06-01 14:25:56 | Login: 192.168.0.101 attempts to login
+2013-06-01 14:25:59 | Login: 192.168.0.101 attempts to login
+2013-06-01 14:28:54 | Login: 192.168.0.101 attempts to login
+2013-06-01 14:29:21 | Login: 192.168.0.101 attempts to login
+2013-06-01 14:29:40 | Login: 192.168.0.101 attempts to login
+2013-06-01 14:29:44 | Login: 192.168.0.101 attempts to login
+2013-06-01 14:29:48 | Login: 192.168.0.101 attempts to login
+2013-06-01 14:29:56 | Login: 192.168.0.101 attempts to login
+2013-06-01 14:30:24 | Login: 192.168.0.101 attempts to login
+2013-06-01 14:30:29 | Login: 192.168.0.101 attempts to login
+2013-06-01 14:33:35 | Login: 192.168.0.101 is logged in
+2013-06-01 14:35:18 | Login: 192.168.0.106 is logged in
+2013-06-02 06:53:49 | Login: 127.0.0.1 is logged in
+2013-06-02 09:34:52 | Login: 127.0.0.1 is logged in
+2013-06-04 03:46:16 | /opt/lampp/htdocs/presentation2.O/presentations/slide.txt: file missing
+2013-06-04 03:46:17 | /opt/lampp/htdocs/presentation2.O/presentations/slide.txt: file missing
+2013-06-04 03:46:18 | /opt/lampp/htdocs/presentation2.O/presentations/slide.txt: file missing
+2013-06-04 03:46:19 | /opt/lampp/htdocs/presentation2.O/presentations/slide.txt: file missing
+2013-06-04 03:46:20 | /opt/lampp/htdocs/presentation2.O/presentations/slide.txt: file missing
+2013-06-04 03:46:21 | /opt/lampp/htdocs/presentation2.O/presentations/slide.txt: file missing
+2013-06-04 03:46:22 | /opt/lampp/htdocs/presentation2.O/presentations/slide.txt: file missing
+2013-06-04 03:47:07 | Login: 127.0.0.1 attempts to login
+2013-06-04 03:47:12 | Login: 127.0.0.1 is logged in
+2013-06-04 04:41:40 | Login: 127.0.0.1 is logged out
+2013-06-04 04:41:42 | Login: 127.0.0.1 is logged in
+2013-06-04 05:00:43 | Could not config slide values: 
+2013-06-04 05:22:46 | Login: 10.20.20.157 is logged in
+2013-06-04 05:38:54 | Login: 10.20.20.51 is logged in
+2013-06-04 06:30:39 | Login: 10.20.20.157 is logged in
+2013-06-04 10:12:14 | Login: 10.20.20.157 attempts to login
+2013-06-04 10:12:32 | Login: 10.20.20.157 is logged in
+2013-06-04 11:14:35 | Login: 10.20.20.199 is logged in
+2013-06-04 12:55:07 | Login: 10.20.20.199 attempts to login
+2013-06-04 12:55:14 | Login: 10.20.20.199 is logged in
+2013-06-05 13:33:40 | Login: 192.168.0.101 is logged in
+2013-06-05 14:25:26 | Login: 192.168.0.101 is logged in
+2013-06-05 14:51:32 | Login: 192.168.0.102 is logged in
