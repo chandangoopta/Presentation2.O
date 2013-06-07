@@ -125,3 +125,5 @@
 2013-06-06 18:21:35 | Login: 127.0.0.1 is logged out
 2013-06-07 06:02:46 | Login: 192.168.0.100 is logged in
 2013-06-07 06:03:53 | Login: 192.168.0.100 is logged out
+2013-06-07 15:52:29 | Login: 127.0.0.1 is logged in
+2013-06-07 19:51:40 | Login: 127.0.0.1 is logged in

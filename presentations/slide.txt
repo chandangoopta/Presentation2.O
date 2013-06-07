@@ -19,7 +19,8 @@ Next generation Presentation
 
 Features
 [[mobile.png]]
-* Take control of slide from any device
+* Presentation without projector
+* Take control of slides from any device
 * **Easy** preparations
 * errors/crashes/requests **logs**
 
@@ -33,8 +34,13 @@ Future enhancements
 
 Requirements
 * **Web server** running **php**
-* A **router**
 * and a **browser**
+
+The idea
+* Timer that makes **requests** for slide status **every second** (jquery, ajax)
+* Checks which slide to show (php)
+* **Parse** the **text file** and generates **json** (php)
+* **Displays**/**changes** slide at client end (jquery, ajax, json)
 
 Design
 * Responsive UI
@@ -43,5 +49,21 @@ Design
 Our **Goal**
 * Let's make presentation **simple**
 
+Fork us
+https://github.com/deepsadhi/Presentation2.O
+[[github.png]]
+* mishraashmita94
+* iusmaharjan
+* deepsadhi
+* kshitiztiwari
+* manisa
+
+Tweet us
+[[twitter.png]]
+* mishraashmita
+* ayushmaharjan
+* deepsadhi
+* kshitiztiwari
+* manisa__
+
 Any **Questions**
-[[question.png]]
