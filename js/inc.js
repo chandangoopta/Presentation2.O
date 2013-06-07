@@ -1,11 +1,9 @@
 function load(){
 	$.ajax({
-		url:"cp/parse_presentation_file.php",
+		url:"cp/parse_presentation_file.php?loc=1",
 		dataType:"json",
 		success:function(data){
-			runDropEffect();
 			var html = Mustache.to_html(template, data);
-			$("#header-content").html(data.header);
 			$("#body").html(html);
 		},
 		error: function(jqXHR, textStatus, errorThrown) {
@@ -19,22 +17,14 @@ function checkSlideStatus(){
 		url:"cp/slide.php",
 		dataType:"json",
 		success:function(data){
-			if(checkSlideStatus.filename != data.presentationFilename || checkSlideStatus.slideId != data.presentationSlideId){
+			if(checkSlideStatus.blockId != data.presentationBlockId){
+				checkSlideStatus.blockId = data.presentationBlockId;
+				load();
+			}else if(checkSlideStatus.filename != data.presentationFilename || checkSlideStatus.slideId != data.presentationSlideId){
+				runDropEffect();
 				load();
 				checkSlideStatus.filename = data.presentationFilename;
 				checkSlideStatus.slideId = data.presentationSlideId;
-			}else if(checkSlideStatus.blockId != data.presentationBlockId){
-				$.ajax({
-					url:"cp/parse_presentation_file.php",
-					dataType:"json",
-					success:function(data2){
-						$("#content").append(data2.content[data.presentationBlockId]);
-						checkSlideStatus.blockId = data.presentationBlockId;
-					},
-					error: function(jqXHR, textStatus, errorThrown) {
-						requestError();
-					}
-				});
 			}
 		},
 		error: function(jqXHR, textStatus, errorThrown) {
@@ -65,9 +55,8 @@ function callback() {
 
 function requestError(){
 	$("#body").html('<div class="error">\
-			<div class="error-before">:(</div>\
-			<div class="error-text">Oops! Request could not be completed.</div>\
-		</div>\
-');
+				<div class="error-before">:(</div>\
+				<div class="error-text">Oops! Request could not be completed.</div>\
+			</div>');
 }
 

@@ -45,6 +45,7 @@ class User
 		if(self::passwordFileExists()){
 			if(is_writable(self::$passwordFile)){
 				if(file_put_contents(self::$passwordFile, $password)){
+					Log::log_action('Password','changed');
 					return true;
 				}else{
 					Log::log_action('Passowrd', 'could not be written');

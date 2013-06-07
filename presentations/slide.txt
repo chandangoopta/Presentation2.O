@@ -1,9 +1,47 @@
-Pesentation2.O
+Presentation 2.O
+
+Goto
+http://**10.20.20.51/presentation2.O**/
 
 Presentation **1.0**
-* Point 1
-* Point 2
+[[ppt.png]]
+[[projector.png]]
+[[projector1.png]]
+
+Limitations
+* Requires projector
+* Time consuming
+* Ask your friends to control presentation
+* **Last benchers** generally can't see slides prpoperly **:(**
 
 Presentation **2.O**
-Point 1
-Point 2
+Next generation Presentation
+
+Features
+[[mobile.png]]
+* Take control of slide from any device
+* **Easy** preparations
+* errors/crashes/requests **logs**
+
+Future enhancements
+* Availability of **Themes**/**Templates**/**Transitions**
+* Export slides to **PDF**
+* Limit requests
+* Q/A in real time
+* **Audio**/**Video** support
+* More **Standarized** parsing
+
+Requirements
+* **Web server** running **php**
+* A **router**
+* and a **browser**
+
+Design
+* Responsive UI
+* Transitions
+
+Our **Goal**
+* Let's make presentation **simple**
+
+Any **Questions**
+[[question.png]]

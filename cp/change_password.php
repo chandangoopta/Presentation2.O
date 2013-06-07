@@ -25,14 +25,20 @@ if(isset($_POST['submit'])){
 }
 
 $values = array();
+$values['includes']='';
+$values['header'] = 'Presentation 2.O';
 $values['body'] = '
-		<div id="message">
-			'.$message.'
-		</div>
+	<div id="changepass">
 		<form method="post" action="'.$_SERVER['PHP_SELF'].'">
-			Old Password:<input name="password" type="password">
-			New password:<input name="new_password" type="password">
+			<div id="message">
+				'.$message.'
+			</div>
+			<label for="oldpass">Old Password:</label>
+			<input name="password" id="oldpass" type="password">
+			<label for="newpass">New password:</label>
+			<input name="new_password" id="newpass" type="password">
 			<input type="submit" name="submit" value="Change">
-		</form>';
-$values['footer'] = '<a href="logout.php">Logout</a> | <a href="presentations_list.php">Presentations</a>';
+		</form>
+	</div>';
+$values['footer'] = '| <a href="logout.php">Logout</a>';
 echo $Mustache->render($cp_page_template, $values); 

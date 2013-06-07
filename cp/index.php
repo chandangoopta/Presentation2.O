@@ -27,13 +27,17 @@ if(isset($_POST['submit'])){
 }
 
 $values = array();
+$values['includes']='';
+$values['header'] = 'Presentation 2.O';
 $values['body'] = '
+	<div id="login-form">
+		<form method="post" action="'.$_SERVER['PHP_SELF'].'">
 		<div id="message">
 			'.$message.'
 		</div>
-		<form method="post" action="'.$_SERVER['PHP_SELF'].'">
 			<input name="password" type="password">
 			<input type="submit" name="submit" value="LogIn">
-		</form>';
+		</form>
+	</div>';
 $values['footer'] = '';
 echo $Mustache->render($cp_page_template, $values); 
