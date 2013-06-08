@@ -23,8 +23,12 @@ $p_slide = $slide;
 $p_block = $block;
 if($slide!=0){
 	$p_slide = $slide-1;
-	$p_block = -1;
+	$p_block = Parser::$slide[$p_slide]-1;
+}else if($slide==0){
+	$p_slide = 0;
+	$p_block = Parser::$slide[$p_slide]-1;
 }
+	
 
 $n_block = $block;
 $n_slide = $slide;

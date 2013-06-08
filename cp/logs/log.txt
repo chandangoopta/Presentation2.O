@@ -127,3 +127,11 @@
 2013-06-07 06:03:53 | Login: 192.168.0.100 is logged out
 2013-06-07 15:52:29 | Login: 127.0.0.1 is logged in
 2013-06-07 19:51:40 | Login: 127.0.0.1 is logged in
+2013-06-07 20:39:46 | Login: 127.0.0.1 is logged out
+2013-06-07 20:39:51 | Login: 127.0.0.1 is logged in
+2013-06-07 20:40:24 | Password: changed
+2013-06-07 20:40:40 | Password: changed
+2013-06-07 20:43:02 | Login: 127.0.0.1 is logged out
+2013-06-07 20:46:36 | Login: 127.0.0.1 is logged in
+2013-06-08 04:14:02 | Login: 127.0.0.1 is logged in
+2013-06-08 04:20:40 | Current Slide: could not be read

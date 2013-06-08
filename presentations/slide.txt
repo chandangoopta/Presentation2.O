@@ -9,18 +9,20 @@ Presentation **1.0**
 [[projector1.png]]
 
 Limitations
-* Requires projector
+* Requires **projector**
 * Time consuming
-* Ask your friends to control presentation
+* Ask your **friends** to **control presentation**
 * **Last benchers** generally can't see slides prpoperly **:(**
 
 Presentation **2.O**
 Next generation Presentation
+* Prepare slides simply from a text (**.txt**) file
+* **Saves** much of your **time**, as the **focuses** on preparing **contents** rather than preparing slides 
 
 Features
 [[mobile.png]]
-* Presentation without projector
 * Take control of slides from any device
+* Presentation without projector
 * **Easy** preparations
 * errors/crashes/requests **logs**
 
